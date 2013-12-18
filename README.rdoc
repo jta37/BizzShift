@@ -1,1 +1,5 @@
 Source Code of BizzShift App
+
+In order to view Heroku logs open up terminal and enter the following:
+
+heroku logs --tail
